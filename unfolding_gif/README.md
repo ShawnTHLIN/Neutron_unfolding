@@ -15,7 +15,7 @@ The end condition is the eqaution below is equal to 1
 # The iterative process of GRAVEL  algorithm
 To examine the ability of this unfolding algorithm, initial guess is given a flat spectrum.
 
-This is a demonstration. Actually, the iterative process would be terminated when the iterative number is 8.
+This is a demonstration. Actually, the iterative process would be terminated when the iterative number arrived 8.
 
 ![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/unfolding_process.gif)
 
