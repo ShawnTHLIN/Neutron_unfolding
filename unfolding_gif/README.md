@@ -7,12 +7,13 @@ The iterative equations[2] is described as
 
 <img src='https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/Gravel_equation1.png' width='500'>
 
-The end condition is set the eqaution is equal to 1
+The end condition is the eqaution below is equal to 1
 
 <img src='https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/Gravel_equation2.png' width='500'>
 
 
 # The iterative process of GRAVEL  algorithm
+This is a demonstration. Actually, the iterative process would be terminated at iteration 8 because of satisfying the end condition.
 
 ![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/unfolding_process.gif)
 
