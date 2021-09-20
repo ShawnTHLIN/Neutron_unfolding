@@ -5,14 +5,15 @@ The presented alogorithm is proposed by M. Matzka in 1994.[1]
 
 The iterative equations[2] is described as
 
-<img src='https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/Gravel_equation1.png' width='500'>
+<img src='https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/Gravel_equation1.png' width='700'>
 
 The end condition is the eqaution below is equal to 1
 
-<img src='https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/Gravel_equation2.png' width='500'>
+<img src='https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/Gravel_equation2.png' width='400'>
 
 
 # The iterative process of GRAVEL  algorithm
+To examine the ability of this unfolding algorithm, initial guess is given a flat spectrum.
 This is a demonstration. Actually, the iterative process would be terminated at iteration 8 because of satisfying the end condition.
 
 ![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/unfolding_process.gif)
