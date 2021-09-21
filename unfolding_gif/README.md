@@ -19,7 +19,7 @@ To examine the ability of this unfolding algorithm, initial guess is given a fla
 
 This is a demonstration. Actually, the iterative process would be terminated when the iterative number arrived 8.
 
-![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/unfolding_process_2.gif)
+![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/unfolding_process_0921.gif)
 
 
 [1]M. Matzke, “Unfolding of pulse height spectra: the hepro program system,” SCAN-9501291, Tech. Rep., 1994.
