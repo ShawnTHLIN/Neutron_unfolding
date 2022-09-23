@@ -14,12 +14,15 @@ When the end equation below is equal to 1, the iterative process will be termina
 where n is the degree of freedom.
 
 
-# The iterative process of GRAVEL  algorithm
+# The iterative process of GRAVEL  algorithm for resolving Cf-252 spectrum
 To examine the ability of this unfolding algorithm, initial guess is given a flat spectrum.
 
 This is a demonstration. Actually, the iterative process would be terminated when the iterative number arrived 8 due to the end equation is almost equal to 1.
 
 ![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/unfolding_process_0921.gif)
+
+# The iterative process of GRAVEL algorithm for resolving AmBe spectrum
+
 
 
 
