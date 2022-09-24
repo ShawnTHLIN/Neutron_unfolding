@@ -19,11 +19,11 @@ To examine the ability of this unfolding algorithm, initial guess is given a fla
 
 This is a demonstration. Actually, the iterative process would be terminated when the iterative number arrived 8 due to the end equation is almost equal to 1.
 
-![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/unfolding_process_0921.gif)
+![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/GRAVEL_Cf-252.gif)
 
 # The iterative process of GRAVEL algorithm for resolving AmBe spectrum
 
-
+![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/GRAVEL_AmBe.gif)
 
 
 [1]M. Matzke, “Unfolding of pulse height spectra: the hepro program system,” SCAN-9501291, Tech. Rep., 1994.
