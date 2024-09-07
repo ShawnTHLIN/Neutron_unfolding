@@ -28,7 +28,7 @@ This is a demonstration. Actually, the iterative process would be terminated whe
 
 # The iterative process of GRAVEL algorithm for resolving 30-MeV cyclotron-based fast neutron spectrum
 
-![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/QMN_unfolding.gif)
+![unfolding_process](https://github.com/ShawnTHLIN/Neutron_unfolding/blob/main/unfolding_gif/cyclotron-base%20neutron%20spectrum%20unfolding.gif)
 
 
 [1]M. Matzke, “Unfolding of pulse height spectra: the hepro program system,” SCAN-9501291, Tech. Rep., 1994.
